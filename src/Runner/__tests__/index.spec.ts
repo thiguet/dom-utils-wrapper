@@ -1,4 +1,4 @@
-import Runner from '../Runner';
+import Runner from '../index';
 
 describe('Runner tests', () => {
     it('Testing the run method', () => {
